@@ -3,4 +3,4 @@
 #    export PATH=$PATH:/usr/local/bin
 # to allow the following to find the compiler..
 #
-gfortran -o advent advent.f amain.f ainit.f asubr.f
+gfortran -std=legacy -o advent advent.f amain.f ainit.f asubr.f

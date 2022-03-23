@@ -1324,16 +1324,16 @@
 1,you that I look at only the first eight letters of each word.
 1,(Should you get stuck, type "HELP" for some general hints.  For infor-
 1,mation on how to end your adventure, etc., type "INFO".)
-1,			- - -
+1,          - - -
 1,This program was originally developed by Willie Crowther.  Most of the
 1,features of the current program were added by Don Woods (DON @ SU-AI).
 1,The current version was done by Kent Blackett and Bob Supnik.
 1,with updates for gfortran and Mac OS X by Stephen Hoffman.
-1,			- - -
+1,          - - -
 1,Bug reports and other correspondence should be sent to:
 1,
-1,	www.HoffmanLabs.com
-1,	Attn:  Adventure Maintenance
+1,  www.HoffmanLabs.com
+1,  Attn:  Adventure Maintenance
 1,
 2,A little dwarf with a big knife blocks your way.
 3,A little dwarf just walked around a corner, saw you, threw a little
